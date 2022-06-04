@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "LibrePhotos/librephotos-docker",
+    "stargazers_count": 75,
+    "open_issues_count": 12,
+    "forks_count": 46
+  },
+  {
+    "full_name": "LibrePhotos/librephotos-frontend",
+    "stargazers_count": 26,
+    "open_issues_count": 5,
+    "forks_count": 27
+  },
+  {
     "full_name": "LibrePhotos/librephotos",
     "stargazers_count": 4128,
     "open_issues_count": 178,
