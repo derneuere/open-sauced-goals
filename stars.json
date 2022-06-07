@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "lockfale/OSINT-Framework",
+    "stargazers_count": 4049,
+    "open_issues_count": 92,
+    "forks_count": 847
+  },
+  {
+    "full_name": "cookpete/react-player",
+    "stargazers_count": 6516,
+    "open_issues_count": 147,
+    "forks_count": 920
+  },
+  {
+    "full_name": "davidjerleke/embla-carousel",
+    "stargazers_count": 2251,
+    "open_issues_count": 16,
+    "forks_count": 88
+  },
+  {
+    "full_name": "orendain/DemeoMods",
+    "stargazers_count": 15,
+    "open_issues_count": 19,
+    "forks_count": 7
+  },
+  {
     "full_name": "storm-devs/storm-engine",
     "stargazers_count": 629,
     "open_issues_count": 16,
@@ -7,33 +31,33 @@
   },
   {
     "full_name": "theVakhovskeIsTaken/holoiso",
-    "stargazers_count": 1211,
-    "open_issues_count": 86,
-    "forks_count": 61
+    "stargazers_count": 1237,
+    "open_issues_count": 87,
+    "forks_count": 65
   },
   {
     "full_name": "SerenityOS/jakt",
-    "stargazers_count": 1423,
-    "open_issues_count": 45,
-    "forks_count": 137
+    "stargazers_count": 1464,
+    "open_issues_count": 51,
+    "forks_count": 142
   },
   {
     "full_name": "TanStack/react-location",
-    "stargazers_count": 2098,
+    "stargazers_count": 2110,
     "open_issues_count": 20,
-    "forks_count": 97
+    "forks_count": 98
   },
   {
     "full_name": "NVIDIA/open-gpu-kernel-modules",
-    "stargazers_count": 11890,
-    "open_issues_count": 99,
-    "forks_count": 788
+    "stargazers_count": 11936,
+    "open_issues_count": 105,
+    "forks_count": 799
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 11433,
-    "open_issues_count": 41,
-    "forks_count": 637
+    "stargazers_count": 11492,
+    "open_issues_count": 36,
+    "forks_count": 645
   },
   {
     "full_name": "Bo98/bpr-bugs",
@@ -43,25 +67,25 @@
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 57504,
+    "stargazers_count": 57542,
     "open_issues_count": 60,
     "forks_count": 1357
   },
   {
     "full_name": "foone/3DMMForever",
-    "stargazers_count": 344,
+    "stargazers_count": 349,
     "open_issues_count": 9,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "microsoft/Microsoft-3D-Movie-Maker",
-    "stargazers_count": 3403,
+    "stargazers_count": 3409,
     "open_issues_count": 0,
-    "forks_count": 240
+    "forks_count": 241
   },
   {
     "full_name": "foone/BRender-v1.3.2",
-    "stargazers_count": 451,
+    "stargazers_count": 453,
     "open_issues_count": 1,
     "forks_count": 22
   },
@@ -73,13 +97,13 @@
   },
   {
     "full_name": "savvasdalkitsis/uhuruphotos-android",
-    "stargazers_count": 69,
-    "open_issues_count": 17,
+    "stargazers_count": 70,
+    "open_issues_count": 22,
     "forks_count": 4
   },
   {
     "full_name": "mattpocock/ts-error-translator",
-    "stargazers_count": 1464,
+    "stargazers_count": 1466,
     "open_issues_count": 12,
     "forks_count": 44
   },
@@ -97,15 +121,15 @@
   },
   {
     "full_name": "WolfireGames/overgrowth",
-    "stargazers_count": 1947,
+    "stargazers_count": 1954,
     "open_issues_count": 22,
-    "forks_count": 178
+    "forks_count": 179
   },
   {
     "full_name": "bloomberg/memray",
-    "stargazers_count": 8520,
-    "open_issues_count": 27,
-    "forks_count": 220
+    "stargazers_count": 8538,
+    "open_issues_count": 23,
+    "forks_count": 221
   },
   {
     "full_name": "MattR-bpr/BPR-Tools",
@@ -115,15 +139,15 @@
   },
   {
     "full_name": "gdraheim/docker-systemctl-replacement",
-    "stargazers_count": 878,
+    "stargazers_count": 881,
     "open_issues_count": 38,
     "forks_count": 313
   },
   {
     "full_name": "marktext/marktext",
-    "stargazers_count": 32324,
-    "open_issues_count": 742,
-    "forks_count": 2398
+    "stargazers_count": 32379,
+    "open_issues_count": 745,
+    "forks_count": 2401
   },
   {
     "full_name": "burninrubber0/ColourCube_Converter",
@@ -139,9 +163,9 @@
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 3752,
-    "open_issues_count": 122,
-    "forks_count": 168
+    "stargazers_count": 3770,
+    "open_issues_count": 124,
+    "forks_count": 169
   },
   {
     "full_name": "richgel999/uap_resources",
@@ -154,29 +178,5 @@
     "stargazers_count": 99,
     "open_issues_count": 1,
     "forks_count": 4
-  },
-  {
-    "full_name": "guysoft/LibrePhotosOS",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "input-output-hk/plutus-pioneer-program",
-    "stargazers_count": 1301,
-    "open_issues_count": 46,
-    "forks_count": 568
-  },
-  {
-    "full_name": "stereobooster/react-snap",
-    "stargazers_count": 4713,
-    "open_issues_count": 176,
-    "forks_count": 350
-  },
-  {
-    "full_name": "SolerSoft/Refract",
-    "stargazers_count": 15,
-    "open_issues_count": 5,
-    "forks_count": 1
   }
 ]
