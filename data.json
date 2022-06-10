@@ -1,9 +1,9 @@
 [
   {
     "full_name": "burninrubber0/Bundle-Manager",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 8,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "LibrePhotos/librephotos-mobile",
@@ -20,7 +20,7 @@
   {
     "full_name": "LibrePhotos/librephotos-docker",
     "stargazers_count": 74,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 46
   },
   {
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "LibrePhotos/librephotos",
-    "stargazers_count": 4138,
-    "open_issues_count": 179,
+    "stargazers_count": 4139,
+    "open_issues_count": 178,
     "forks_count": 170
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 671,
+    "stargazers_count": 675,
     "open_issues_count": 16,
-    "forks_count": 280
+    "forks_count": 283
   }
 ]
