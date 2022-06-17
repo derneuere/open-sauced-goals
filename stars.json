@@ -1,26 +1,32 @@
 [
   {
+    "full_name": "HuiiBuh/InstagramDownloader",
+    "stargazers_count": 463,
+    "open_issues_count": 17,
+    "forks_count": 79
+  },
+  {
     "full_name": "lockfale/OSINT-Framework",
-    "stargazers_count": 4089,
+    "stargazers_count": 4097,
     "open_issues_count": 96,
     "forks_count": 850
   },
   {
     "full_name": "cookpete/react-player",
-    "stargazers_count": 6537,
-    "open_issues_count": 148,
-    "forks_count": 925
+    "stargazers_count": 6544,
+    "open_issues_count": 149,
+    "forks_count": 926
   },
   {
     "full_name": "davidjerleke/embla-carousel",
-    "stargazers_count": 2282,
+    "stargazers_count": 2283,
     "open_issues_count": 15,
-    "forks_count": 89
+    "forks_count": 90
   },
   {
     "full_name": "orendain/DemeoMods",
     "stargazers_count": 16,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 7
   },
   {
@@ -31,33 +37,33 @@
   },
   {
     "full_name": "theVakhovskeIsTaken/holoiso",
-    "stargazers_count": 1297,
-    "open_issues_count": 95,
+    "stargazers_count": 1313,
+    "open_issues_count": 97,
     "forks_count": 69
   },
   {
     "full_name": "SerenityOS/jakt",
-    "stargazers_count": 1564,
-    "open_issues_count": 60,
-    "forks_count": 156
+    "stargazers_count": 1574,
+    "open_issues_count": 62,
+    "forks_count": 158
   },
   {
     "full_name": "TanStack/react-location",
-    "stargazers_count": 2137,
-    "open_issues_count": 21,
+    "stargazers_count": 2139,
+    "open_issues_count": 22,
     "forks_count": 102
   },
   {
     "full_name": "NVIDIA/open-gpu-kernel-modules",
-    "stargazers_count": 12046,
-    "open_issues_count": 105,
-    "forks_count": 810
+    "stargazers_count": 12074,
+    "open_issues_count": 104,
+    "forks_count": 814
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 11727,
-    "open_issues_count": 44,
-    "forks_count": 663
+    "stargazers_count": 11776,
+    "open_issues_count": 49,
+    "forks_count": 667
   },
   {
     "full_name": "Bo98/bpr-bugs",
@@ -67,51 +73,51 @@
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 57655,
+    "stargazers_count": 57691,
     "open_issues_count": 60,
-    "forks_count": 1361
+    "forks_count": 1362
   },
   {
     "full_name": "foone/3DMMForever",
-    "stargazers_count": 356,
-    "open_issues_count": 14,
-    "forks_count": 13
+    "stargazers_count": 359,
+    "open_issues_count": 16,
+    "forks_count": 15
   },
   {
     "full_name": "microsoft/Microsoft-3D-Movie-Maker",
-    "stargazers_count": 3430,
+    "stargazers_count": 3433,
     "open_issues_count": 0,
-    "forks_count": 241
+    "forks_count": 243
   },
   {
     "full_name": "foone/BRender-v1.3.2",
-    "stargazers_count": 457,
+    "stargazers_count": 458,
     "open_issues_count": 1,
     "forks_count": 23
   },
   {
     "full_name": "HackerPoet/HyperEngine",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "savvasdalkitsis/uhuruphotos-android",
     "stargazers_count": 71,
-    "open_issues_count": 23,
+    "open_issues_count": 18,
     "forks_count": 4
   },
   {
     "full_name": "mattpocock/ts-error-translator",
-    "stargazers_count": 1479,
-    "open_issues_count": 15,
-    "forks_count": 45
+    "stargazers_count": 1499,
+    "open_issues_count": 16,
+    "forks_count": 46
   },
   {
     "full_name": "uswds/uswds",
     "stargazers_count": 6154,
-    "open_issues_count": 222,
-    "forks_count": 909
+    "open_issues_count": 223,
+    "forks_count": 910
   },
   {
     "full_name": "EdnessP/scripts",
@@ -121,14 +127,14 @@
   },
   {
     "full_name": "WolfireGames/overgrowth",
-    "stargazers_count": 1964,
-    "open_issues_count": 22,
-    "forks_count": 179
+    "stargazers_count": 1970,
+    "open_issues_count": 23,
+    "forks_count": 180
   },
   {
     "full_name": "bloomberg/memray",
-    "stargazers_count": 8636,
-    "open_issues_count": 30,
+    "stargazers_count": 8662,
+    "open_issues_count": 22,
     "forks_count": 226
   },
   {
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "gdraheim/docker-systemctl-replacement",
-    "stargazers_count": 887,
+    "stargazers_count": 886,
     "open_issues_count": 39,
-    "forks_count": 316
+    "forks_count": 315
   },
   {
     "full_name": "marktext/marktext",
-    "stargazers_count": 32609,
-    "open_issues_count": 762,
-    "forks_count": 2414
+    "stargazers_count": 32667,
+    "open_issues_count": 768,
+    "forks_count": 2421
   },
   {
     "full_name": "burninrubber0/ColourCube_Converter",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 3853,
-    "open_issues_count": 121,
-    "forks_count": 172
+    "stargazers_count": 3869,
+    "open_issues_count": 122,
+    "forks_count": 173
   },
   {
     "full_name": "richgel999/uap_resources",
     "stargazers_count": 24,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "lomorage/homepage",
-    "stargazers_count": 101,
-    "open_issues_count": 1,
-    "forks_count": 4
   }
 ]
